@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>L628_map</name>
+    <GroundOverlay>
+      <name>L628_map</name>
+      <color>ffffffff</color>
+      <Icon>
+        <href>L628_map.png</href>
+      </Icon>
+      <altitudeMode>clampToGround</altitudeMode>
+      <LatLonBox>
+        <north>49.768251136000003</north>
+        <south>49.760587252999997</south>
+        <east>-93.783915086999997</east>
+        <west>-93.794754922999999</west>
+      </LatLonBox>
+    </GroundOverlay>
+  </Document>
+</kml>
