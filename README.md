@@ -44,7 +44,7 @@ bathymetry, hypsography, IISD-ELA
 
 Use the space below to summarize the structure of the repository with a decription of each folder, as applicable.
 
-###data
+### data
 
 - Bathymetry_L438_L627_L628.csv
 
