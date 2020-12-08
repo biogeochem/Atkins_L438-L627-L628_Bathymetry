@@ -3,7 +3,7 @@
 
 ## Summary
 
-Bathymetric and hypsographic data for IISD-ELA Lakes L438, L627, and L628.
+Bathymetric and hypsographic data and maps for IISD-ELA Lakes L438, L627, and L628. Field data were collected with a Humminbird HELIX 5 CHIRP GPS G2 Shapefiles and bathymetric maps were generated in ReefMaster 2. These lakes did not previously have bathymetric and hypsographic data available for them. These lakes are part of a lake-size survey and the L626 Diversion project.
 
 ## Highly Qualified Personnel
 
@@ -15,7 +15,7 @@ Bathymetric and hypsographic data for IISD-ELA Lakes L438, L627, and L628.
 
 ## Data sources
 
-- Data collected with a Humminbird Heliz 5 CHIRP Sonar/GPS (2nd Generation)
+- Data collected with a Humminbird Helix 5 CHIRP Sonar/GPS (2nd Generation)
 
 ## Funding sources
 
@@ -23,7 +23,7 @@ Bathymetric and hypsographic data for IISD-ELA Lakes L438, L627, and L628.
 
 ## Keywords
 
-bathymetry, hypsography, IISD-ELA
+bathymetry, hypsometry, IISD-ELA
 
 ## Geographic Coverage
 
@@ -42,9 +42,7 @@ bathymetry, hypsography, IISD-ELA
 
 ## Repo content information
 
-Use the space below to summarize the structure of the repository with a decription of each folder, as applicable.
-
-###data
+### data
 
 - Bathymetry_L438_L627_L628.csv
 
